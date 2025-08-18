@@ -1,6 +1,4 @@
-1.Source_code/non-os/main/.metadata/
-1.Source_code/non-os/main/smart_alarm_clock/.settings
-1.Source_code/non-os/main/smart_alarm_clock/Debug
-1.Source_code/os/main/.metadata/
-1.Source_code/os/main/smart_alarm_clock/.settings
-1.Source_code/os/main/smart_alarm_clock/Debug
+.vs
+**/.metadata/
+**/.settings/
+**/Debug/
